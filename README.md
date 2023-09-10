@@ -1,4 +1,4 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge?page_id=akashdeep2l4.akashdeep2k4" />
 
 <!--
 **akashdeep2k4/akashdeep2k4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
